@@ -1,0 +1,540 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.macbook-pro-16-1-5n5 {
+  width: 100%;
+  height: 231.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #eaa750;
+}
+.macbook-pro-16-1-5n5 .rectangle-1-5vV {
+  width: 157.5rem;
+  height: 100.7rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 4.6rem;
+  background-color: #ffffff;
+  border-radius: 2.5rem;
+}
+.macbook-pro-16-1-5n5 .charles-kasasira-NPo {
+  width: 32.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 8.9rem;
+  font-size: 4.1rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #eaa750;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .home-pWh {
+  width: 8.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 81.4rem;
+  top: 9.4rem;
+  font-size: 2.9rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .about-6z1 {
+  width: 8.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 98.6rem;
+  top: 9.8rem;
+  font-size: 2.9rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .project-26y {
+  width: 9.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 115.8rem;
+  top: 9.4rem;
+  font-size: 2.9rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .group-1-LNZ {
+  width: 14.6rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 139.3rem;
+  top: 8.7rem;
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #070707;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.2rem #eaa651;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.macbook-pro-16-1-5n5 .ellipse-1-iGd {
+  width: 126.3rem;
+  height: 126.3rem;
+  position: absolute;
+  left: 87rem;
+  top: 31.7rem;
+  background-color: #eaa750;
+  border-radius: 63.15rem;
+}
+.macbook-pro-16-1-5n5 .hello-qMF {
+  width: 17.2rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 28.9rem;
+  display: flex;
+  font-size: 6.3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .i-am-charles-YFf {
+  width: 57.9rem;
+  height: 13.3rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 33.7rem;
+  display: flex;
+  font-size: 9.6rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #070707;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .ui-ux-designer-dnu {
+  width: 37.5rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 15.9rem;
+  top: 46.65rem;
+  display: flex;
+  font-size: 5.4rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #eaa750;
+  font-family: Alata, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.macbook-pro-16-1-5n5 .hello-i-am-an-aspiring-ui-ux-designer-with-the-ability-to-translate-the-designs-into-functional-front-end-MD7 {
+  width: 72.4rem;
+  height: 17rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 56.15rem;
+  display: flex;
+  font-size: 4.1rem;
+  font-weight: 400;
+  line-height: 1.38;
+  color: #5d5d5d;
+  font-family: Alata, 'Source Sans Pro';
+}
+.macbook-pro-16-1-5n5 .image-2-o57 {
+  width: 73.4rem;
+  height: 91.4rem;
+  position: absolute;
+  left: 89.6rem;
+  top: 19.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.macbook-pro-16-1-5n5 .group-2-hRP {
+  width: 26.9rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 16.7rem;
+  top: 80.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #eaa750;
+  border-radius: 3.2rem;
+  box-shadow: 0 3.1rem 6.4rem rgba(0, 0, 0, 0.25);
+}
+.macbook-pro-16-1-5n5 .group-4-jcy {
+  box-sizing: border-box;
+  padding: 10.05rem 5.2rem 6.2rem 5.2rem;
+  width: 152.8rem;
+  height: 111.7rem;
+  position: absolute;
+  left: 10.6rem;
+  top: 116rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f0f6;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .my-services-bfB {
+  margin-bottom: 5.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4.3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .we-offer-innovative-ui-ux-design-services-at-intellectsoft-aimed-at-delivering-an-excellent-finished-product-in-a-timely-manner-through-an-innovative-design-process-K5P {
+  margin: 0rem 0rem 7.05rem 1.1rem;
+  max-width: 56.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B {
+  margin-bottom: 8.7rem;
+  width: 100%;
+  height: 29.2rem;
+  display: flex;
+  column-gap: 9.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyxb-39o {
+  box-sizing: border-box;
+  padding: 2.2rem 9.1rem 8.5rem 9.2rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyxb-39o .group-xGm {
+  margin: 0rem 9.1rem 3.762rem 6.1rem;
+  box-sizing: border-box;
+  padding: 1.367rem 1.367rem 1.367rem 1.367rem;
+  width: calc(100% - 15.2rem);
+  height: 6.9885rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector.png');
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyxb-39o .group-xGm .vector-rN9 {
+  width: 5.1654rem;
+  height: 2.7346rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyxb-39o .web-development-NLV {
+  margin-bottom: 1.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #5d5d5d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyxb-39o .blog-e-commerce-6GV {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-nsvz-yr5 {
+  box-sizing: border-box;
+  padding: 2.2rem 5.25rem 8.5rem 7.55rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffcfc;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-nsvz-yr5 .group-3-VpR {
+  margin: 0rem 2.3rem 3.807rem 0rem;
+  width: 7.2rem;
+  height: 6.9429rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-nsvz-yr5 .ui-ux-design-23f {
+  margin-bottom: 1.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #5d5d5d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-nsvz-yr5 .mobile-app-website-design-7au {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyih-Qpu {
+  box-sizing: border-box;
+  padding: 2.89rem 8.4rem 8.5rem 8.3rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyih-Qpu .fluent-mic-20-regular-jcH {
+  margin: 0rem 0rem 4.54rem 0rem;
+  width: 3.795rem;
+  height: 5.52rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyih-Qpu .sound-design-ejF {
+  margin-bottom: 1.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #5d5d5d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-aq1f-v5B .auto-group-vyih-Qpu .voice-over-best-making-acu {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH {
+  width: 100%;
+  height: 29.2rem;
+  display: flex;
+  column-gap: 9.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-vtpv-Qbw {
+  box-sizing: border-box;
+  padding: 2.5rem 3.7rem 8.3rem 3.7rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-vtpv-Qbw .group-8Xw {
+  margin: 0rem 2.887rem 3.75rem 0rem;
+  width: 7.9134rem;
+  height: 6.9rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-vtpv-Qbw .game-design-G8M {
+  margin: 0rem 1.3rem 1.95rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #5d5d5d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-vtpv-Qbw .character-design-props-object-aeq {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-bpmf-gxm {
+  box-sizing: border-box;
+  padding: 1.718rem 4.85rem 8.3rem 6.05rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-bpmf-gxm .fluent-emoji-high-contrast-man-teacher-Cw7 {
+  margin: 0rem 3.706rem 4.869rem 0rem;
+  width: 7.9569rem;
+  height: 6.5628rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-bpmf-gxm .photography-845 {
+  margin: 0rem 1.3rem 1.95rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #5d5d5d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-bpmf-gxm .portrait-product-photography-S4m {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-tuzv-9E5 {
+  box-sizing: border-box;
+  padding: 3.45rem 6.95rem 4.8rem 6.85rem;
+  width: 41.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-tuzv-9E5 .advertising-UGM {
+  margin-bottom: 3.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-tuzv-9E5 .lorem-ipsum-dolor-sit-amet-consectetur-netus-consequat-placerat-eget-hendrerit-liber-CCM {
+  margin-bottom: 2.2rem;
+  max-width: 27.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5299999714);
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.macbook-pro-16-1-5n5 .group-4-jcy .auto-group-qwow-UiH .auto-group-tuzv-9E5 .order-now-HDo {
+  margin-left: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.1rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffd233;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
